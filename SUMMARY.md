@@ -4,7 +4,7 @@
 
 ## NFC - 近場通訊 <a href="#nfc" id="nfc"></a>
 
-* [Mifare 門禁卡應用](nfc/mifare-men-jin-ka-ying-yong.md)
+* [Mifare 門禁卡應用](nfc/mifare.md)
 
 ## Standard - 標準 <a href="#standard" id="standard"></a>
 
