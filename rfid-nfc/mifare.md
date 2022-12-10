@@ -6,7 +6,7 @@
 
 |Standard|Frequency|Common Name|Example|
 |---|---|---|---|
-|[EM](https://en.wikipedia.org/wiki/EM_Microelectronic)|125kHz|Proximity card/EM卡/ID卡|悠遊卡/銀行卡|
+|[EM](https://en.wikipedia.org/wiki/EM_Microelectronic)|125kHz|Proximity card/EM卡/ID卡|簡易門禁感應卡磁扣|
 |[MIFARE](https://zh.wikipedia.org/wiki/MIFARE)|13.56MHZ|MIFARE卡/IC卡|悠遊卡/銀行卡|
 
 ## Spec
