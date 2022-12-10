@@ -6,8 +6,10 @@
 
 ### Sector 0 - Block 0
 
+Classic with 4 UID:
+
 |Byte|Length|Content|
 |---|---|---|
-|1|4|UID|
-|5|1|bit count check|
-|6|1|SAK (08:一般加密卡, 28:特殊加密卡如銀行卡)|
+|0|4|UID|
+|4|1|bit count check|
+|5|1|SAK (08:一般加密卡, 28:特殊加密卡如銀行卡)|
