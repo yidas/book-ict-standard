@@ -9,3 +9,7 @@
 ## Standard - 標準 <a href="#standard" id="standard"></a>
 
 * [充電標準 PD/Qi/QC – 版本與規格表](standard/battery-charging-protocol-spec.md)
+
+## test <a href="#test" id="test"></a>
+
+* [test](standard/battery-charging-protocol-spec.md)
