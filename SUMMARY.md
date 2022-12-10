@@ -8,4 +8,4 @@
 
 ## Standard - 標準 <a href="#standard" id="standard"></a>
 
-* [充電標準 PD/Qi/QC – 版本與規格表](standard/chong-dian-biao-zhun-pdqiqc-ban-ben-yu-gui-ge-biao.md)
+* [充電標準 PD/Qi/QC – 版本與規格表](standard/battery-charging-protocol-spec.md)
