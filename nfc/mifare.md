@@ -7,6 +7,7 @@
 ### Sector 0 - Block 0
 
 |Byte|Length|Content|
+|---|---|---|
 |1|4|UID|
 |5|1|bit count check|
 |6|1|SAK (08:一般加密卡, 28:特殊加密卡如銀行卡)|
