@@ -2,8 +2,12 @@
 
 ## 感應卡
 
-[感應卡（Proximity card)](https://zh.wikipedia.org/zh-tw/%E6%84%9F%E5%BA%94%E5%8D%A1)適用於[ISO/IEC 14443](https://zh.wikipedia.org/zh-tw/ISO/IEC_14443)標準與ISO/IEC 15693標準。它也可以用來指那些使用125 kHz或13.56 MHz的非接觸型RFID感應卡，這些技術通常被使用於非接觸型智慧卡之上。
+[感應卡(Proximity card)](https://zh.wikipedia.org/zh-tw/%E6%84%9F%E5%BA%94%E5%8D%A1)適用於[ISO/IEC 14443](https://zh.wikipedia.org/zh-tw/ISO/IEC_14443)標準與ISO/IEC 15693標準。它也可以用來指那些使用125 kHz或13.56 MHz的非接觸型RFID感應卡，這些技術通常被使用於非接觸型智慧卡之上。
 
+|Standard|Frequency|Common Name|Example|
+|---|---|---|
+|[EM](https://en.wikipedia.org/wiki/EM_Microelectronic)|125kHz|Proximity card/EM卡/ID卡|悠遊卡/銀行卡|
+|[MIFARE](https://zh.wikipedia.org/wiki/MIFARE)|13.56MHZ|MIFARE卡/IC卡|悠遊卡/銀行卡|
 
 ## Spec
 
