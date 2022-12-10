@@ -1,3 +1,3 @@
-# Mifare 門禁卡應用
+# Mifare 門禁卡/磁扣應用
 
 test
