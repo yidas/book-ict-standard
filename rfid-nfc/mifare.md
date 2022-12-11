@@ -37,6 +37,8 @@ Classic with 4 UID:
 3. 卡片接 收到TokenAB後，會把加密部份解譯出來然後比對參數B、亂數RB。同時並依據收到的亂數RA，參照公式編碼後產生TokenBA傳送回讀卡機。
 4. 讀卡機接收到TokenBA後，又把加密過的部份解譯，比較亂數RB，RA與TokenBA中解出之RB、RA是否相符，正確的就可以完成指令（扣款、打 開門鎖或是登記其他事項）。
 
+加解密驗證原理建立在讀卡機使用的Key與卡片的Key相同
+
 > [複製一張宿舍門禁卡(三) 操作存取卡片流程 - AndyWu's Notes](https://notes.andywu.tw/2018/%E8%A4%87%E8%A3%BD%E4%B8%80%E5%BC%B5%E5%AE%BF%E8%88%8D%E9%96%80%E7%A6%81%E5%8D%A1%E4%B8%89-%E6%93%8D%E4%BD%9C%E5%AD%98%E5%8F%96%E5%8D%A1%E7%89%87%E6%B5%81%E7%A8%8B/)
 
 ---
