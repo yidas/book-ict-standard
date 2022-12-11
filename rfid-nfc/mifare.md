@@ -45,6 +45,8 @@ Classic with 4 UID:
 
 ## Crack 破解與複製
 
-讀寫部分需要裝置晶片(如[ACR122U](https://wiki.archlinux.org/title/Touchatag_RFID_Reader))支援，手機app可使用如[MifareClassicTool](https://github.com/ikarus23/MifareClassicTool)利用Key Brute attack掃出Sector內容
+讀取部分只需要裝置晶片支援，手機app可使用如[MifareClassicTool](https://github.com/ikarus23/MifareClassicTool)利用Key Brute attack掃出Sector內容。
+寫入部分一般晶片會禁止對`Sector 0 - Block 0`寫入，支援該需寫入的如[ACR122U](https://wiki.archlinux.org/title/Touchatag_RFID_Reader))讀寫器
 
+> [複製一張宿舍門禁卡(四) 複製UID至水卡 - AndyWu's Notes](https://notes.andywu.tw/2018/%e8%a4%87%e8%a3%bd%e4%b8%80%e5%bc%b5%e5%ae%bf%e8%88%8d%e9%96%80%e7%a6%81%e5%8d%a1%e5%9b%9b-%e8%a4%87%e8%a3%bduid%e8%87%b3%e6%b0%b4%e5%8d%a1/)
 > [MIFARE系列7《安全性》- 壹讀](https://read01.com/J06JPK.html#.Y5VYxXZBybg)
