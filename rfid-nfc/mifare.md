@@ -32,3 +32,5 @@ Classic with 4 UID:
 ## Crack 破解與複製
 
 讀寫部分需要裝置晶片(如[ACR122U](https://wiki.archlinux.org/title/Touchatag_RFID_Reader))支援，手機app可使用如[MifareClassicTool](https://github.com/ikarus23/MifareClassicTool)利用Key Brute attack掃出Sector內容
+
+> [MIFARE系列7《安全性》- 壹讀](https://read01.com/J06JPK.html#.Y5VYxXZBybg)
