@@ -31,4 +31,4 @@ Classic with 4 UID:
 
 ## Crack 破解與複製
 
-讀寫部分需要裝置晶片(如[ACR122U](https://wiki.archlinux.org/title/Touchatag_RFID_Reader))支援，Read來說一般手機NFC晶片可能只能讀製造商代碼（Manufacturer Code）block，如使用[MifareClassicTool](https://github.com/ikarus23/MifareClassicTool)全掃sector內容皆失敗狀況
+讀寫部分需要裝置晶片(如[ACR122U](https://wiki.archlinux.org/title/Touchatag_RFID_Reader))支援，Read來說一般手機NFC晶片可能只能讀製造商代碼（Manufacturer Code）block，如使用[MifareClassicTool](https://github.com/ikarus23/MifareClassicTool)全掃sector內容最終皆失敗狀況
