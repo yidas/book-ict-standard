@@ -50,8 +50,8 @@ Standard Keys (如[MifareClassicTool](https://github.com/ikarus23/MifareClassicT
 |Key|Purpose|Description|
 |---|---|---|
 |`FF:FF:FF:FF:FF:FF`|Factory default key|No NDEF data for `Key A` & `Key B`|
-|`D3:F7:D3:F7:D3:F7`|Public NDEF key|NDEF message for `key A` with MAD sector (`sector 0`)|
-|`A0:A1:A2:A3:A4:A5`|Public NDEF key|NDEF message for `key A` with `sectors 1~15`|
+|`A0:A1:A2:A3:A4:A5`|Public NDEF key|NDEF message for `key A` with MAD sector (`sector 0`)|
+|`D3:F7:D3:F7:D3:F7`|Public NDEF key|NDEF message for `key A` with `sectors 1~15`|
 
 
 > - [MIFARE Classic as NFC Type MIFARE Classic Tag PDF](https://www.nxp.com/docs/en/application-note/AN1305.pdf)
