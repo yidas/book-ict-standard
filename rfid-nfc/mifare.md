@@ -43,6 +43,22 @@ Classic with 4 UID:
 
 ---
 
+## Key
+
+Standard Keys (如[MifareClassicTool](https://github.com/ikarus23/MifareClassicTool)中的std.keys list):
+
+|Key|Purpose|Description|
+|---|---|---|
+|`FF:FF:FF:FF:FF:FF`|Factory default key|No NDEF data for `Key A` & `Key B`|
+|`D3:F7:D3:F7:D3:F7`|Public NDEF key|NDEF message for `key A` with MAD sector (`sector 0`)|
+|`A0:A1:A2:A3:A4:A5`|Public NDEF key|NDEF message for `key A` with `sectors 1~15`|
+
+
+> - [MIFARE Classic as NFC Type MIFARE Classic Tag PDF](https://www.nxp.com/docs/en/application-note/AN1305.pdf)
+> - [MIFARE Classic standard keys - Stack Overflow](https://stackoverflow.com/questions/56225136/mifare-classic-standard-keys)
+
+---
+
 ## Crack 破解與複製
 
 讀取部分只需要裝置晶片支援，手機app可使用如[MifareClassicTool](https://github.com/ikarus23/MifareClassicTool)利用Key Brute attack掃出Sector內容。  
