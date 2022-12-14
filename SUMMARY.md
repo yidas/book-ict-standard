@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ICT Standard Guide](README.md)
+* [資訊通訊科技標準指南](README.md)
 
 ## RFID/NFC
 
