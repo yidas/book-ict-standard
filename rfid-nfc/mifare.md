@@ -66,3 +66,11 @@ Standard Keys (如[MifareClassicTool](https://github.com/ikarus23/MifareClassicT
 
 > * [複製一張宿舍門禁卡(四) 複製UID至水卡 - AndyWu's Notes](https://notes.andywu.tw/2018/%E8%A4%87%E8%A3%BD%E4%B8%80%E5%BC%B5%E5%AE%BF%E8%88%8D%E9%96%80%E7%A6%81%E5%8D%A1%E5%9B%9B-%E8%A4%87%E8%A3%BDuid%E8%87%B3%E6%B0%B4%E5%8D%A1/)
 > * [MIFARE系列7《安全性》- 壹讀](https://read01.com/J06JPK.html#.Y5VYxXZBybg)
+
+
+
+---
+
+## References
+
+- [Tricky for Mifare Classic / Mifare Classic 的冷知識](https://kb.hiy.tw/os/mifare_uid/)
