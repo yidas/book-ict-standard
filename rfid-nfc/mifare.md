@@ -64,10 +64,18 @@ Standard Keys (如[MifareClassicTool](https://github.com/ikarus23/MifareClassicT
 讀取部分只需要裝置晶片支援，手機app可使用如[MifareClassicTool](https://github.com/ikarus23/MifareClassicTool)利用Key Brute attack掃出Sector內容。\
 寫入部分一般晶片會禁止對`Sector 0 - Block 0`寫入，支援該需寫入的如[ACR122U](https://wiki.archlinux.org/title/Touchatag\_RFID\_Reader)讀寫器
 
-> * [複製一張宿舍門禁卡(四) 複製UID至水卡 - AndyWu's Notes](https://notes.andywu.tw/2018/%E8%A4%87%E8%A3%BD%E4%B8%80%E5%BC%B5%E5%AE%BF%E8%88%8D%E9%96%80%E7%A6%81%E5%8D%A1%E5%9B%9B-%E8%A4%87%E8%A3%BDuid%E8%87%B3%E6%B0%B4%E5%8D%A1/)
-> * [MIFARE系列7《安全性》- 壹讀](https://read01.com/J06JPK.html#.Y5VYxXZBybg)
+> - [複製一張宿舍門禁卡(四) 複製UID至水卡 - AndyWu's Notes](https://notes.andywu.tw/2018/%E8%A4%87%E8%A3%BD%E4%B8%80%E5%BC%B5%E5%AE%BF%E8%88%8D%E9%96%80%E7%A6%81%E5%8D%A1%E5%9B%9B-%E8%A4%87%E8%A3%BDuid%E8%87%B3%E6%B0%B4%E5%8D%A1/)
+> - [MIFARE系列7《安全性》- 壹讀](https://read01.com/J06JPK.html#.Y5VYxXZBybg)
+> - [Mifare Classic UID BCC Online Calculator](https://nric.biz/mifare-bcc-calculator.html)
 
+---
 
+## 手機 NFC Tag
+
+現行 global 手機的 NFC Tag UID 都是每次讀取動態改變，只能透過 root 才能使用 Emulator，而中國出廠的手機則支援自家 Wallet App 複製模擬 UID。
+不 root 情況下的門禁應用，目前 Samsung Pay 的悠遊卡服務創建卡片後其手機 NFC Tag UID 就會固定跟隨該卡。
+
+> [Why does my phone's RFID UID change each time I scan it on a RFID scanning system? - Electrical Engineering Stack Exchange](https://electronics.stackexchange.com/questions/622227/why-does-my-phones-rfid-uid-change-each-time-i-scan-it-on-a-rfid-scanning-syste)
 
 ---
 
