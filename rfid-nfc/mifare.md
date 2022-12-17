@@ -72,7 +72,7 @@ Standard Keys (如[MifareClassicTool](https://github.com/ikarus23/MifareClassicT
 
 ## 手機 NFC Tag
 
-現行 global 手機的 NFC Tag UID 都是每次讀取動態改變，只能透過 root 才能使用 Emulator，而中國出廠的手機則支援自家 Wallet App 複製模擬 UID。
+現行 global 手機的 NFC Tag UID 都是每次讀取動態改變，只能透過 root 才能使用 Emulator，而中國出廠的手機則支援自家 Wallet App 複製模擬 UID。  
 不 root 情況下的門禁應用，目前 Samsung Pay 的悠遊卡服務創建卡片後其手機 NFC Tag UID 就會固定跟隨該卡。
 
 > [Why does my phone's RFID UID change each time I scan it on a RFID scanning system? - Electrical Engineering Stack Exchange](https://electronics.stackexchange.com/questions/622227/why-does-my-phones-rfid-uid-change-each-time-i-scan-it-on-a-rfid-scanning-syste)
