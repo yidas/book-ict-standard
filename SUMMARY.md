@@ -9,3 +9,4 @@
 ## Standard - 標準 <a href="#standard" id="standard"></a>
 
 * [充電標準 PD/Qi/QC – 版本與規格表](standard/battery-charging-protocol-spec.md)
+* [電腦組件標準 - PC協定規格](standard/dian-nao-zu-jian-biao-zhun-pc-xie-ding-gui-ge.md)
