@@ -4,7 +4,7 @@
 
 ## RFID/NFC
 
-* [Mifare 門禁卡應用](rfid-nfc/mifare.md)
+* [MIFARE 感應門禁卡應用](rfid-nfc/mifare.md)
 
 ## Standard - 標準 <a href="#standard" id="standard"></a>
 
